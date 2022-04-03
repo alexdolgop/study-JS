@@ -1,7 +1,7 @@
 console.log("Hello world");
 
 let a = 'hello';
-let b = 4;
+let b = 5;
 
 
 console.log(a);
